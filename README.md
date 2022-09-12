@@ -3,7 +3,7 @@ Just a Python Space Invaders emulator, but you can select some options (mono col
 
 INSTRUCTIONS:
 
-Put a ROM named 'Invaders.rom' (single file ROM) in the same directory as PyI8080.py. Also put all the included files (all sounds and background image) in the same directory.
+Put a ROM named 'Invaders.rom' (single file ROM) in the same directory as Py8080.py. Also put all the included files (all sounds and background image) in the same directory.
 
 CONTROLS:
 
