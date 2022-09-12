@@ -8,6 +8,9 @@ Put a ROM named 'Invaders.rom' (single file ROM) in the same directory as PyI808
 CONTROLS:
 
 Enter = Insert Coin
+
 Up key = start game
+
 Left and Right Keys = move left and right
+
 Space = Shoot
