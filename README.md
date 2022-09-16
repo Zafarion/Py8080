@@ -1,4 +1,4 @@
-# Py8080
+# Pynvaders
 Just a Python Space Invaders emulator, but you can select some options (mono colored, inverted colors, with some colors, with more colors, with background image, etc) before the game starts. 
 
 INSTRUCTIONS:
