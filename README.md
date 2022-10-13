@@ -25,3 +25,8 @@ IMAGES:
 ![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders6.png)
 ![](https://github.com/Zafarion/Pynvaders/blob/b40945d2a334e4a5596a4c1bd62e3b2ea73848aa/pics/Pyvaders7.png)
 ![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders8.png)
+
+UPDATE (12/10/2022):
+- Included missing sound (lifegained.wav) and implemented code to play this sound. You need to download the new file and put in the same directory as the other sound files.
+- The original arcade has switches that lets the owner set the number of lives, display coin information, score total to gain a new life/ship, etc. Now these switches can be changed on the emulator directly in the IN_PORT2 variable by just setting the starting bits. The values are explained in the beggining of the source code.
+- Minor changes in the keyboard listening routine and input/output ports handling.
